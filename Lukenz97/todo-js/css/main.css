@@ -1,0 +1,24 @@
+.cool {
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    background: gray;
+    border-radius: 10px;
+}
+.border{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 5px;
+    height: 50px
+}
+#lista{
+    position: relative;
+    height: 100%;
+}
+.right{
+    position: absolute;
+    right: 10px;
+    height: 100%;
+    margin-right: -10px;
+}
